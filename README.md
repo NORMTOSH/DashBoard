@@ -1,7 +1,7 @@
 # DashBoard
 Just about any Python library can be used to create a “static” PNG, SVG, HTML, or other output that can be pasted into a presentation, sent in an email, published as a figure in a paper, and so on. Many people also want or need to create “live” Python-backed applications or dashboards that a user can interact with to explore or analyze some data. Python offers several libraries for this purpose. The four main tools designed specifically for web-based dashboarding in Python are:
 
-Dash (from Plotly); see the blog post
+* Dash (from Plotly); see the blog post
 
 Panel (from Anaconda); see the blog post
 
